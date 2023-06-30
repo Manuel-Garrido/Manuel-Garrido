@@ -1,4 +1,4 @@
-<div aling="center" id="header">
+<div align="center" id="header">
   <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="180" height="180" class="giphy-embed"/>
   <h1 align="center">Hi👋, i am Manu</h1>
   <h3 align="center">I am an enthusiastic junior programmer eager to embark on this exciting journey into the world of coding.</h3>
