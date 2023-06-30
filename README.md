@@ -21,6 +21,8 @@
   <img src="https://github.com/Manuel-Garrido/Manuel-Garrido/assets/123185085/b1d212f2-9788-4c20-b7ef-f6ab1a8c4e06" width="50" height="50"/>
   <img src="https://github.com/Manuel-Garrido/Manuel-Garrido/assets/123185085/2762a8a0-ebe6-4d34-a170-0c7c8c0f2448" width="50" height="50"/>
   <img src="https://github.com/Manuel-Garrido/Manuel-Garrido/assets/123185085/7c9118f2-0829-46c5-b88f-a2357f4b65f7" width="50" height="50"/>
+  <img src="https://img.shields.io/badge/-Java-000?&logo=Java" width="50" height="50"/>
+  
 </div>
 <!--
 **Manuel-Garrido/Manuel-Garrido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
