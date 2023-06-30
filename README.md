@@ -3,6 +3,16 @@
   <h1 align="center">Hi👋, i am Manu</h1>
   <h3 align="center">I am an enthusiastic junior programmer eager to embark on this exciting journey into the world of coding.</h3>
   <a href="https://www.linkedin.com/in/manuel-garrido-serrano-26aa2a281/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="120" height="25"/></a>
+  <hr/>
+</div>
+<div id="body">
+  <h3><strong>👨&zwj;💻About Me:</strong></h3>
+  <ul>
+    <li>📝 I am a second-year student in a higher vocational degree program for multiplatform application development.</li>
+    <li>💬 I am currently learning Japanese and English.</li>
+    <li>🌱 I am also currently learning Golang.</li>
+  </ul>
+  <hr/>
 </div>
 
 <!--
