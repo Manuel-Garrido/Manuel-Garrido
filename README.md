@@ -1,3 +1,4 @@
+<div aling="center"><img src="https://giphy.com/embed/wwg1suUiTbCY8H8vIA" width="480" height="480" class="giphy-embed"/></div>
 ### Hi there 👋
 
 <!--
