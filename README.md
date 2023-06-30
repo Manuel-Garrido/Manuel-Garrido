@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="180" height="180" class="giphy-embed"/>
   <h1 align="center">Hi👋, i am Manu</h1>
   <h3 align="center">I am an enthusiastic junior programmer eager to embark on this exciting journey into the world of coding.</h3>
-  <a href="https://www.linkedin.com/in/manuel-garrido-serrano-26aa2a281/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="180" height="25"/></a>
+  <a href="https://www.linkedin.com/in/manuel-garrido-serrano-26aa2a281/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="120" height="25"/></a>
 </div>
 
 <!--
