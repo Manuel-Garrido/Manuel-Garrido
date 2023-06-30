@@ -14,7 +14,14 @@
   </ul>
   <hr/>
 </div>
-
+<div id="body-language">
+  <h3>😎 Languages and Tools:</h3>
+  <img src="https://github.com/Manuel-Garrido/Manuel-Garrido/assets/123185085/d91bef72-a8d6-4046-8363-761847fbaa35" width="50" height="50"/>
+  <img src="https://github.com/Manuel-Garrido/Manuel-Garrido/assets/123185085/b93ddeb5-735c-4d19-b094-bb1533ed2d8c" width="50" height="50"/>
+  <img src="https://github.com/Manuel-Garrido/Manuel-Garrido/assets/123185085/b1d212f2-9788-4c20-b7ef-f6ab1a8c4e06" width="50" height="50"/>
+  <img src="https://github.com/Manuel-Garrido/Manuel-Garrido/assets/123185085/2762a8a0-ebe6-4d34-a170-0c7c8c0f2448" width="50" height="50"/>
+  <img src="https://github.com/Manuel-Garrido/Manuel-Garrido/assets/123185085/7c9118f2-0829-46c5-b88f-a2357f4b65f7" width="50" height="50"/>
+</div>
 <!--
 **Manuel-Garrido/Manuel-Garrido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
