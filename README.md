@@ -24,10 +24,6 @@
   <img src="https://img.shields.io/badge/-Java-000?&logo=Java" width="50" height="50"/>
   <hr/>
 </div>
-<div id="stats">
-  <h3>📊 My Stats :</h3>
-</div>
-[[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Manuel-Garrido&border_radius=3.7)](https://git.io/streak-stats)](http://github-readme-streak-stats.herokuapp.com/?user=Manuel-Garrido&border_radius=3.7)](https://git.io/streak-stats)
 <!--
 **Manuel-Garrido/Manuel-Garrido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
